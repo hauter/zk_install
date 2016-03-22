@@ -1,1 +1,1 @@
-# zk_install
+# 一键在本机安装3个zookeeper 伪集群
